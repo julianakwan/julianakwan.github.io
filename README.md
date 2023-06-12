@@ -6,6 +6,7 @@ repositories and my publications.
 This website was based on a template called Hyperspace by HTML5 UP. 
 
 Credits: 
+
   The template itself: 
     AJ (aj@lkn.io | @ajlkn)
 
