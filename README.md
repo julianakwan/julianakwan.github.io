@@ -9,13 +9,13 @@ Credits:
   The template itself: 
     AJ (aj@lkn.io | @ajlkn)
 
-  Demo Images- 
+  Demo Images:
 		Unsplash (unsplash.com)
 
-	Icons: 
+  Icons:
 		Font Awesome (fontawesome.io)
 
-	Other:
+  Others: 
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
