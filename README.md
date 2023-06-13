@@ -1,4 +1,4 @@
-Hello - this is my website that I use to collate my various projects together.
+Hello - this is my website that I use to collate code, images and presentations of my various projects together.
 
 In it, you will find links to my projects, examples for my
 repositories and my publications.
